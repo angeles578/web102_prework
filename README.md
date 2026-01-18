@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='prework_web102_AH copy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,10 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This has been a very challenging project to complete 
+had taught me a lot of JavaScript that i never tought i could really learn to do; it was fun though...
+
+I am eager to know what else has codepath to show me.
 
 ## License
 
