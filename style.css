@@ -5,6 +5,14 @@ body {
     background-color: #758190;
 }
 
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
 #tentacles {
     width: 50px;
 }
@@ -17,10 +25,18 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    
 }
 
 .stats-container {
     display: flex;
+    align-items: center;
+    
+}
+
+.stats-container:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -39,11 +55,18 @@ body {
 #games-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 20px;
+}
+
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .game-img {
     width: 100%;
+    height: auto;
     border-radius: 5px;
     box-shadow: 0 0 10px #FFFFFF;
 }
@@ -55,6 +78,7 @@ body {
     width: 300px;
     text-align: center;
     border-radius: 7px;
+    box-sizing: border-box;
 }
 
 .game-card:hover {
